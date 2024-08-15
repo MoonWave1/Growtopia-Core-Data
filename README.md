@@ -1,7 +1,7 @@
 # Growtopia-Core-Data
 Simple Growtopia Items.dat to Core_Data.txt Conventer
 
-Have ItemDatVersion = 18
+All Items.dat working on Script
 
 Fixed by .moonwavex Version 4.63
 
